@@ -2,7 +2,7 @@ import React from 'react';
 import moment from "moment";
 import {Link} from "react-router-dom";
 
-function Post(props){
+const Post = (props) => {
 	return(
 		  <div className="post" id={props.id}>
         <div className="post-header">

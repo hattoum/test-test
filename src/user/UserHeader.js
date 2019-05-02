@@ -1,6 +1,6 @@
 import React from "react";
 
-function UserHeader(props){
+const UserHeader = (props)=>{
 	return(
 		<section className="userinfo">
         <figure>

@@ -1,10 +1,6 @@
 import React from 'react';
 import PostList from "./PostList.js"
 
-function Homepage(){
-	return (
-			<PostList />
-		)
-}
+const Homepage = ()=> (<PostList />)
 
 export default Homepage

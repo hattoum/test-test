@@ -1,7 +1,7 @@
 import React from "react";
-import UserPost from "./UserPost.js"
+import UserPost from "./UserPost.js";
 
-function UsersPostGrid(props){
+const UsersPostGrid = (props)=>{
     return props.posts.map(post => {
       return (
       	<div>

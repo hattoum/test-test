@@ -1,7 +1,7 @@
 import React from "react";
 
 
-function UserPost(props){
+const UserPost= (props)=>{
 	return(
 		<section className="post-grid" id={props.id}>
         	<div>

@@ -3,8 +3,9 @@ import {
   NavLink
 } from "react-router-dom";
 
+//Components that do not get routed or changed
 
-function Header(){
+const Header=()=>{
   return (
     <header>
             <nav>
@@ -28,7 +29,7 @@ function Header(){
     )
 }
 
-function Footer(){
+const Footer=()=>{
   return(
      <footer>
             <p>

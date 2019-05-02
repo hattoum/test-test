@@ -1,11 +1,9 @@
-import React from "react"
-import User from "../user/User.js"
+import React from "react";
 import axios from "axios";
-import MyAccountPostGrid from "./MyAccountPostGrid.js"
+import MyAccountPostGrid from "./MyAccountPostGrid.js";
 
 //Reusing User page components
-import UserHeader from "../user/UserHeader.js"
-
+import UserHeader from "../user/UserHeader.js";
 
 
 class MyAccount extends React.Component{
@@ -15,13 +13,16 @@ class MyAccount extends React.Component{
 	}
 
 	componentDidMount(){
-		//GET request to get all user data
+		//GET request to get user data
 		axios.get("https://makinahgram-api.herokuapp.com/users/").then(response => {
+			// eslint-disable-next-line
       		this.setState({user: response.data.filter(u => u.id == 2)[0]})
 
     	})
 
+		//GET request to get all user posts
 		axios.get("https://makinahgram-api.herokuapp.com/posts").then(response => {
+			// eslint-disable-next-line
 			this.setState({posts: response.data.filter(p => p.user.id == 2)})
     	})
 	}
