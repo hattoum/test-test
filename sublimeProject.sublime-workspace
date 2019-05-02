@@ -1,0 +1,593 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"export"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"wor",
+				"word1"
+			],
+			[
+				"min",
+				"minMax"
+			],
+			[
+				"new",
+				"newArr"
+			],
+			[
+				"inde",
+				"indexOfBig"
+			],
+			[
+				"smol",
+				"smolArr"
+			],
+			[
+				"smo",
+				"smolArr"
+			],
+			[
+				"big",
+				"bigArr"
+			],
+			[
+				"in",
+				"indexOfSmol"
+			],
+			[
+				"row",
+				"rowStr"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"sear",
+				"searchResults"
+			],
+			[
+				"src",
+				"srcElement"
+			],
+			[
+				"sea",
+				"searchResults"
+			],
+			[
+				"all",
+				"allCards"
+			],
+			[
+				"sr",
+				"srcElement"
+			],
+			[
+				"filter",
+				"filteredArr"
+			],
+			[
+				"add",
+				"addBook"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"books",
+				"booksJSON"
+			],
+			[
+				"mult",
+				"multiplesOf3and5"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"prod",
+				"products"
+			],
+			[
+				"get",
+				"getHours"
+			],
+			[
+				"time",
+				"timeObj"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"random",
+				"randomColor"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"create",
+				"createCards"
+			],
+			[
+				"jig",
+				"jigglyPlusOne"
+			],
+			[
+				"right",
+				"margin-right"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"tex-al",
+				"text-align"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"Font",
+				"font-size"
+			],
+			[
+				"border-bo",
+				"border-bottom-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bg",
+				"bgcolor\tAttr"
+			],
+			[
+				"chec",
+				"checkDate"
+			],
+			[
+				"cehck",
+				"checkDate"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"b",
+				"bgcolor\tAttr"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"set",
+				"setInterval"
+			],
+			[
+				"ch",
+				"checkTime"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 200.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"floob",
+				"Floobits - Join Workspace"
+			],
+			[
+				"floobits - com",
+				"Floobits - Complete Sign Up"
+			],
+			[
+				"disconnec",
+				"Remote: Disconnect from Session"
+			],
+			[
+				"remote",
+				"Remote: Connect to Session"
+			],
+			[
+				"hos",
+				"Remote: Host Session"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 618.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Me/reactappnew/new-app",
+		"/C/Me/reactappnew/new-app/src"
+	],
+	"file_history":
+	[
+		"/C/Me/reactapp/my-app/src/MyAccount.js",
+		"/C/Me/reactapp/my-app/src/main.js",
+		"/C/Me/reactapp/my-app/src/AddPost.js",
+		"/C/Me/reactapp/my-app/src/App.css",
+		"/C/Me/reactapp/my-app/src/App.js",
+		"/C/Me/reactapp/my-app/src/users.js",
+		"/C/Me/reactapp/my-app/src/UserPosts.js",
+		"/C/Me/reactapp/my-app/src/postsList.js",
+		"/C/Me/reactapp/my-app/node_modules/babel-runtime/node_modules/core-js/client/library.js",
+		"/C/Me/AServer/server.js",
+		"/C/Me/wonderful/server.js",
+		"/C/Me/mail/server.js",
+		"/C/Me/reactapp/my-app/public/manifest.json",
+		"/C/Me/reactapp/my-app/src/serviceWorker.js",
+		"/C/Users/hatto/Desktop/phaser/package-lock.json",
+		"/C/Users/hatto/Desktop/bebjs.js",
+		"/C/Users/hatto/Desktop/html.html",
+		"/C/Users/hatto/Desktop/New folder (2)/project.css",
+		"/C/Me/Dropbox/Projects/Python/pygameAgain/Branch/globalVars.py",
+		"/C/Me/Dropbox/Projects/Python/pygameAgain/Branch/game.py",
+		"/C/Me/Dropbox/Projects/Python/pygame - Copy/hello.py",
+		"/C/Me/Dropbox/Projects/Python/pacoman/pacoman.py",
+		"/C/Users/hatto/Desktop/kotlinc/bin/test.kt",
+		"/C/Program Files/Android/Android Studio/bin/studio.exe.vmoptions",
+		"/C/Me/File Server/server.js",
+		"/C/Users/hatto/Desktop/Beb recipes/list.js",
+		"/C/Me/reactapp/my-app/src/postslist.js",
+		"/C/Users/hatto/Desktop/carous/index.html",
+		"/C/Program Files (x86)/Common Files/Oracle/Java/java.settings.cfg",
+		"/C/Users/hatto/.AndroidStudio3.3/config/studio64.exe.vmoptions",
+		"/C/Me/Android/bin/studio64.exe.vmoptions",
+		"/C/Me/Android_Projects/Calculatore/local.properties",
+		"/C/Me/Android_Projects/Calculatore/gradle.properties",
+		"/C/Me/Dropbox/Projects/Python/pygameAgain/Branch/megaman.py",
+		"/C/Users/hatto/Desktop/New folder (2)/ajax.js",
+		"/C/Me/Dropbox/Beb recipes/list.js",
+		"/C/Me/Dropbox/Projects/NodeJS/db/json/Mr nigga/5-6-2015.json",
+		"/C/Users/hatto/Desktop/Beb recipes/css.css",
+		"/C/Users/hatto/Desktop/Beb recipes/jquery.js",
+		"/C/Users/hatto/Desktop/Beb recipes/js.js",
+		"/C/Users/hatto/Desktop/Beb recipes/index.html",
+		"/C/Me/Dropbox/Projects/JS/stuff/Pixel/js.js",
+		"/C/Users/hatto/Desktop/Beb recipes/velocity.js",
+		"/C/Users/hatto/Desktop/Beb recipes/list.json",
+		"/C/Me/Dropbox/PuffsPrettyProjects/Domprompt/dom-prompt.js",
+		"/C/Me/Dropbox/PuffsPrettyProjects/Domprompt/dom-prompt.html",
+		"/C/Me/Dropbox/Projects/C++/template/template.cpp",
+		"/C/Me/Dropbox/Projects/Java/test1/hello.java",
+		"/C/Me/Dropbox/Projects/Python/pygameAgain/game.py",
+		"/C/Users/hatto/Downloads/seconds.js",
+		"/C/Users/hatto/floobits/hattoum/MyWorkspace/js.js",
+		"/C/Users/hatto/Desktop/New folder/uber.js",
+		"/C/Users/hatto/floobits/welcome.md",
+		"/C/Users/hatto/Downloads/seconds.html",
+		"/C/Users/hatto/.floorc.json",
+		"/C/Me/Dropbox/PuffsPrettyProjects/My beb and I/css.css",
+		"/C/Me/Dropbox/Projects/JS/stuff/Pixel/index.html",
+		"/C/Me/Dropbox/Projects/NodeJS/db/test2.py",
+		"/C/Me/Dropbox/Projects/NodeJS/db/test.py",
+		"/C/Users/hatto/floobits/hattoum/MyWorkspace/.floo",
+		"/C/Users/hatto/Desktop/jees/js.js",
+		"/C/Users/hatto/Desktop/jees/index.html",
+		"/C/Users/hatto/Desktop/js/js.js",
+		"/C/Users/hatto/Desktop/New folder/uber.css",
+		"/C/Users/hatto/Desktop/New folder/Uber.html",
+		"/C/Users/hatto/Desktop/formbattle/css.css",
+		"/C/Me/Dropbox/Projects/JS/absolute.html",
+		"/C/Users/hatto/Desktop/js/beb.html",
+		"/C/Users/hatto/Desktop/favorite person/index.html",
+		"/C/Users/hatto/Desktop/formbattle/index.html",
+		"/C/Users/hatto/Desktop/favorite person/css.css",
+		"/C/Me/Dropbox/Projects/JS/Guessing Game.js",
+		"/C/Users/hatto/Desktop/favorite person/buttpics.html",
+		"/C/Me/Dropbox/Projects/JS/stuff/Sidebar/js.js",
+		"/C/Me/Dropbox/Projects/JS/stuff/Hosam Nob/js.js",
+		"/C/Users/hatto/Desktop/htmlthing/beb.html",
+		"/C/Users/hatto/Desktop/css.css",
+		"/C/Users/hatto/Desktop/bebebe.html",
+		"/C/Me/Dropbox/Projects/html/Home.html",
+		"/C/Me/Dropbox/Projects/JS/stuff/Animate/css.css",
+		"/C/Me/Dropbox/Projects/html/css.css",
+		"/C/Me/mail/package-lock.json",
+		"/C/Me/wonderful/package.json",
+		"/C/Me/wonderful/package-lock.json",
+		"/C/Me/fbbot/server.js",
+		"/C/Me/Dropbox/Projects/Python/test/test.py",
+		"/C/Program Files/Git/usr/share/perl5/core_perl/CPAN/Shell.pm",
+		"/C/Program Files/Git/usr/share/perl5/core_perl/Config/Extensions.pm",
+		"/C/Me/messenger/procfile",
+		"/C/Me/messenger/package-lock.json",
+		"/C/Me/messenger-webhook/index.js",
+		"/C/Me/new/package-lock.json",
+		"/C/Me/Dropbox/jimtim/NPC_Origin/JARAXXUSsmall.psd.meta",
+		"/C/Me/Dropbox/Projects/JS/absolute.js",
+		"/C/Me/Dropbox/Projects/JS/JQuery/Project 6/js.js",
+		"/C/Me/Dropbox/Projects/JS/stuff/String match/match.js",
+		"/C/Me/Dropbox/Projects/JS/titleTest/js.js",
+		"/C/Me/Dropbox/Projects/NodeJS/Project 3/resources/Jigglypuff.json",
+		"/C/Me/Dropbox/Projects/JS/Gamejs/js.js"
+	],
+	"find":
+	{
+		"height": 39.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublimeProject.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
